@@ -1,0 +1,13 @@
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\bin\Debug\Projectvb.exe
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\bin\Debug\Projectvb.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\bin\Debug\Projectvb.xml
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.exe
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.xml
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.frm1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Projectvb\obj\x86\Debug\Projectvb.lab1.resources
+D:\Projectvb\Projectvb\obj\x86\Debug\Projectvb.exe
+D:\Projectvb\Projectvb\obj\x86\Debug\Projectvb.xml
+D:\Projectvb\Projectvb\obj\x86\Debug\Projectvb.pdb
